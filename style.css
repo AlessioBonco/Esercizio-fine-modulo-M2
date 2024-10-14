@@ -1,0 +1,113 @@
+*{
+    margin:  0;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+header{
+background-color: lightblue;
+    border-bottom: solid;
+    padding: 18px;
+}
+header h1 {
+    text-align: center;
+margin-left: 300px;
+}
+.user {
+    margin-left: 400px;
+}
+.testa {
+display: flex;
+align-items: baseline; 
+word-spacing: 0.4cm;
+
+}
+
+main{
+    margin-left: 10px;
+
+}
+
+main label {
+font-size: 20px;
+}
+#titolo{
+margin-top: 10px;
+font-size: 20px;
+width: 275px;
+}
+
+#posizione {
+    margin-top: 10px;
+font-size: 20px;
+width: 270px;
+}
+
+#risultati{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+button {
+    font-size: 20px;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+
+
+.BigDiv2 {
+    display: flex;
+
+}
+
+
+.RDiv {
+margin-left: 520px;
+    border-left: solid;
+    margin-top: 0;
+}
+
+.RDiv h1 {
+margin-left: 80px;
+}
+
+.RDiv a {
+    margin-top: 10px;
+    margin-left: 5px;
+    
+}
+.RDiv h4 {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+h2 {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+h3 {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+
+.BigDiv3 {
+
+    display: flex;
+    gap: 220px;
+  background-color: lightblue;
+  border-top: solid;
+  padding: 18px;
+ align-items: baseline;
+
+}
+
+.tel {
+    color: blue;
+    margin-left: 30px;
+}
+
